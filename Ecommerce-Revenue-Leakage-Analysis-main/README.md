@@ -367,11 +367,3 @@ This project demonstrates practical experience in:
 - Data Visualization
 - Business Insight Generation
 
----
-
-## Author
-
-**Ganesh Gokhale**
-
-B.E. Computer Science & Engineering  
-Aspiring Data Analyst / Data Scientist
