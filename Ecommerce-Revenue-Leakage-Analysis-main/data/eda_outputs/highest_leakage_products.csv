@@ -1,0 +1,11 @@
+product_id,product_name,category,sub_category,total_orders,gross_revenue,net_revenue,net_profit,revenue_leakage,profit_margin_pct
+PRD2437,Laptops Item 093,Electronics,Laptops,1,412919.31,0.0,-313.81,413233.12,0.0
+PRD1540,Laptops Item 046,Electronics,Laptops,1,399607.57,0.0,-247.97,399855.54,0.0
+PRD1567,Laptops Item 078,Electronics,Laptops,1,381132.46,0.0,-307.72,381440.18,0.0
+PRD0498,Laptops Item 013,Electronics,Laptops,1,379485.6,0.0,-390.95,379876.55,0.0
+PRD1378,Laptops Item 001,Electronics,Laptops,1,378602.74,0.0,-269.54,378872.28,0.0
+PRD1970,Laptops Item 226,Electronics,Laptops,1,375390.7,0.0,-402.65,375793.35,0.0
+PRD0746,Laptops Item 095,Electronics,Laptops,1,370651.48,0.0,-530.52,371182.0,0.0
+PRD2066,Laptops Item 193,Electronics,Laptops,1,345398.58,0.0,-380.08,345778.66,0.0
+PRD0447,Laptops Item 115,Electronics,Laptops,1,334984.38,0.0,-422.92,335407.3,0.0
+PRD2105,Laptops Item 294,Electronics,Laptops,1,331918.29,0.0,-360.11,332278.4,0.0
